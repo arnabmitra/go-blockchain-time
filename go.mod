@@ -1,4 +1,4 @@
-module go-blockchain-time
+module github.com/arnabmitra/go-blockchain-time
 
 go 1.18
 
